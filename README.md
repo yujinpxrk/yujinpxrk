@@ -58,6 +58,6 @@
 <div align="center">
   <a href="mailto:park.yuj@northeastern.edu">
     <img
-      src="https://img.shields.io/badge/park.yuj@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/park.yuj@northeastern.edu-bdd6e7?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
