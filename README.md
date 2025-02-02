@@ -62,6 +62,6 @@
   </a>
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=C3D6E4&width=435&lines=Think.+Code.+Build.+Repeat." alt="Typing SVG" /></a>
-</div>
+<br>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=C3D6E4&width=435&lines=Think.+Code.+Build.+Repeat." alt="Typing SVG" /></a></h3>
