@@ -41,14 +41,14 @@
 
 <h3 align="center">🫧 Tools 🫧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-80C1F8.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-549DDF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-AA9DFA.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
