@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Input%20text&descAlignY=24&fontAlignY=35" />
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yujin%20Codes&descAlignY=24&fontAlignY=36" />
 </div>
 
 <!--Body-->
