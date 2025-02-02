@@ -2,8 +2,6 @@
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=aecce4&text=Yujin%20Codes!%20\(`•ω•´)/&descAlignY=24&fontAlignY=36&textBg=false&fontSize=43&fontColor=24292e" />
 </div>
 
-<br>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=C3D6E4&center=true&vCenter=true&width=435&lines=Think.+Code.+Build.+Repeat." alt="Typing SVG" /></a>
 </div>
@@ -69,8 +67,6 @@
       src="https://img.shields.io/badge/park.yuj@northeastern.edu-bdd6e7?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=aecce4&section=footer" />
