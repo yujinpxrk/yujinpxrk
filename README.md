@@ -69,3 +69,9 @@
       src="https://img.shields.io/badge/park.yuj@northeastern.edu-bdd6e7?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=aecce4&section=footer" />
+</div>
