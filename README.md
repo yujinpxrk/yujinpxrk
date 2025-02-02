@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-BEB4F1.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
