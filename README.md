@@ -5,13 +5,13 @@
 <!--Body-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
- <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
- <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" />&nbsp
 </div>
